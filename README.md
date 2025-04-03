@@ -1,11 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Cloud Certifications.<br>🌱 I’m currently Exploring for New Tech Stuff.<br>🤔 Want to Work At Product based companies .<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me:<br>😄 Pronouns: He/His<br>⚡ Fun fact:
-3 years ago
-
-Initial commit
-
-
-3 years ago
+FUCK YOU!!
 
 Initial Commit
 # 💻 Tech Stack:
@@ -14,3 +8,6 @@ Initial Commit
 ![](https://github-readme-stats.vercel.app/apiusername=wannurvaren&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wannurvaren&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=wannurvaren&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wannurvaren&theme=radical&no-frame=false&no-bg=true&margin-w=4)
